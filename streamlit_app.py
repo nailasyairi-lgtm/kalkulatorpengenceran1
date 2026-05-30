@@ -26,7 +26,7 @@ if menu == "Home":
     * **Konverter Konsentrasi:** Ubah kadar persen (%) menjadi Molaritas (M) secara instan.
     * **Cari Data Unsur:** Intip data nomor atom dan massa atom relatif (Ar) tanpa perlu buka poster tabel periodik.
     """)
-    st.info("💡 Aplikasi ini dibuat menggunakan Python dan Streamlit. Sangat ringan dan mudah dikembangkan!")
+    st.info("💡 Aplikasi ini sangat bermanfaat bagi mahasiswa untuk praktik!")
 
 # ==========================================
 # HALAMAN 2: IDENTIFIKASI GUGUS FUNGSI
